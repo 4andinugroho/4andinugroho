@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Andi Nugroho</h1>
-<h3 align="center">Back End Developer | Love to Code and Nicotin 🐧 </h3>
+<h3 align="center">Back End Developer | Is coded, Nicotine is protein🐧 </h3>
 
 
 <div align="center">
